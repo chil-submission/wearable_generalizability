@@ -27,8 +27,9 @@ Data from the *All of Us* study requires access to the *All of Us* researcher wo
 A notebook demonstrating how the within-dataset and within-participant means were calculated is available in `time_series_and_multiple_regression.ipynb`
 
 ## All of Us data
-A notebook demonstrating how we pulled minute-level heart rate data and processed it into resting heart rate, along with the multiple regression and examples of minute-of-day means across demographics groups is shown in `all_of_us_analyses.ipynb` Researchers with access to the *All of Us* researcher workbench should select the Registered Tier v7 dataset create a cohort with all participants, demographics data, and FitBit data.
+A notebook demonstrating how we pulled minute-level heart rate data and processed it into resting heart rate, along with the multiple regression and examples of minute-of-day means across demographics groups is shown in `all_of_us_analyses.ipynb` Researchers with access to the *All of Us* researcher workbench should select the Registered Tier v7 dataset and create a cohort with all participants, demographics data, and FitBit data.
 
 
 ## Tasks, models, training/testing, concept shift
-A notebook with task definitions, models, dataset creation, training, and concept shift quantification are available in `model_generalizability.ipynb`
+A notebook with task definitions, models, dataset creation, training, and concept shift quantification is available in `model_generalizability.ipynb`
+
